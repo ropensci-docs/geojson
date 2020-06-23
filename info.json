@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "50ddf85588e039e9f2c778d76881b4e34e999fc6",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-06-23 19:35:49",
+    "files": 1,
+    "merge": false,
+    "message": "update cran comments for correction\n"
+  },
+  "remote": "https://github.com/ropensci/geojson",
+  "pkg": "geojson"
+}

@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  geojson-operations: geojson-operations.html
+  geojson: geojson.html
+last_built: 2021-07-10T12:47Z
+urls:
+  reference: https://docs.ropensci.org/geojson/reference
+  article: https://docs.ropensci.org/geojson/articles
+
