@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3881c7df07e924b3afce2270b78e316e5e47e79d",
+    "author": "Michael Sumner <mdsumner@gmail.com>",
+    "time": "2023-08-10 00:44:10",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.3.5.9000\n"
+  },
+  "repo": "https://github.com/ropensci/geojson",
+  "pkg": "geojson"
+}
